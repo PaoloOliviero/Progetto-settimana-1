@@ -30,6 +30,7 @@ h1 {
   font-weight: bold;
   letter-spacing: -0.03em;
   margin-bottom: 0.7em;
+  border-left-width: 1rem;
 }
 
 .background-image {
